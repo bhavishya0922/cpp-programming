@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.out
+*.app
+.vscode/
+.idea/
+*.log
+cpp_coursework.log
